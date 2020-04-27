@@ -1,1 +1,1 @@
-# embed-test
+# uv-embed-test
